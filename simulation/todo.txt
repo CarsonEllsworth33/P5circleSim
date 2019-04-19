@@ -1,0 +1,4 @@
+--1.  add spawn ability to the reds, greens and blues
+2. implement a movement mechanic for the circle based object
+
+...  finish rest of code
